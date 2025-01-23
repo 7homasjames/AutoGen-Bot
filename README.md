@@ -83,9 +83,9 @@ This tool is ideal for developers, data analysts, and researchers who need effic
 
 ## File Structure
 ```
-├── app.py               # Main application file
+├── app7.py               # Main Streamlit app application file
 ├── prep.py              # CSV preprocessing utilities
-├── csvplugin.py         # Custom plugin for handling CSV data
+├── api2.py              # Main fastapi code
 ├── requirements.txt     # Dependencies
 ├── data/                # Directory for storing SQLite databases
 ├── .env                 # Environment variables (not included in repo)
@@ -102,23 +102,3 @@ This tool is ideal for developers, data analysts, and researchers who need effic
 
 ---
 
-## Future Enhancements
-1. Add support for other database types (e.g., MySQL, PostgreSQL).
-2. Enable advanced filtering and customization of RAG search results.
-3. Introduce additional file types (e.g., Excel, Word) for indexing.
-4. Improve error handling and user experience.
-
----
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## Acknowledgments
-Special thanks to the open-source libraries and frameworks that make this project possible.
