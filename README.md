@@ -1,4 +1,4 @@
-# RAGQuery: A Streamlit-Powered RAG and SQL Query Generator
+# RAGQuery
 
 ## Overview
 **RAGQuery** combines the power of Retrieval-Augmented Generation (RAG) with SQL query generation to offer a seamless experience for retrieving and querying data. This application enables users to: 
