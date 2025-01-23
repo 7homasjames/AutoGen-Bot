@@ -7,7 +7,7 @@
 2. Perform retrieval-augmented question answering from indexed CSV and PDF documents.
 3. Populate and query an SQLite database with uploaded CSV files.
 
-This tool is ideal for developers, data analysts, and researchers who need efficient data retrieval and SQL generation capabilities.
+![image](https://github.com/user-attachments/assets/790d6a3a-a497-4b26-8012-f106e2c51290)
 
 ---
 
