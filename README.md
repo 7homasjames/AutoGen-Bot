@@ -55,7 +55,8 @@ This tool is ideal for developers, data analysts, and researchers who need effic
 
 4. Run the application:
    ```bash
-   streamlit run app.py
+   fastapi run api2.py
+   streamlit run app7.py
    ```
 
 ---
