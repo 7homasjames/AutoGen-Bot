@@ -1,4 +1,4 @@
-#  Agwntic AI-Powered Insurance Processing
+#  Agentic AI-Powered Insurance Processing
 
 ## Overview
 **Agentic AI RAGQuery** combines the power of Agentic Retrieval-Augmented Generation (RAG) with SQL query generation to offer a seamless experience for retrieving and querying data. This application enables users to: 
